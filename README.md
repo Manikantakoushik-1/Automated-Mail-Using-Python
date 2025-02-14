@@ -2,6 +2,8 @@ Automated mailing systems using Python can be implemented to send emails without
 Languages or Frameworks Used
 Modules required are os , email.mime , smtplib , pandas.
 
+Languages or Frameworks Used
+
 These are listed in requirements.txt . USe the below command to install these dependencies.
 
     pip install requirements.txt
